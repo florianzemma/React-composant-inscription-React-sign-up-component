@@ -39,6 +39,8 @@ https://developers.google.com/identity/protocols/OAuth2#1.-obtain-oauth-2.0-cred
 
 **Messages d'erreur / Error Message**
 
-- Les messages d'erreur on été réalisé avec le composants message de AntDesign / Error messages been created with the component message of AntDesign : https://ant.design/components/message/
+- Les messages d'erreur on été réalisé avec le composants message de AntDesign / Error messages have been created with the component message of AntDesign : https://ant.design/components/message/
 
 ![Image description](https://zupimages.net/up/20/11/qb8g.png)
+
+
