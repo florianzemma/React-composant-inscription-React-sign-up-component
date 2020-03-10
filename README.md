@@ -11,9 +11,9 @@
 
 **Base de données / Database**
 
-- Vous devez remplacer le lien de connexion à la base de données : mongodb+srv://<Votre nom de compte>:<password>@cluster0-pxxdj.mongodb.net/test
+- Vous devez remplacer le lien de connexion à la base de données : mongodb+srv://**Votre nom de compte**:**votre mot de passe**@cluster0-pxxdj.mongodb.net/test
   
-- You have to replace the connexion link to the database with your link  : mongodb+srv://<Your username>:<password>@cluster0-pxxdj.mongodb.net/test
+- You have to replace the connexion link to the database with your link  : mongodb+srv://**Your username**:**password**@cluster0-pxxdj.mongodb.net/test
   
 **Clef API / API keys**
 
