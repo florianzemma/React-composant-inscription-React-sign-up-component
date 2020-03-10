@@ -1,7 +1,7 @@
 # React-composant-inscription-React-sign-up-component
 [FR-EN] Composant d'inscription React avec Facebook et Google connect / React component with Facebook and Google connect 
 
-- Une grande partie du code est commenté pour aider à la compréhension / A big part of the code is commented to help for understanding all the fonctionnality 
+- Une grande partie du code est commenté pour aider à la compréhension / A big part of the code is commented to help for understanding all the fonctionnalities. 
 
 - Ne pas oublier de faire npm i dans le dossier back et dans le dossier front / don't forget to do npm i on the back folder and on the front folder.
 
